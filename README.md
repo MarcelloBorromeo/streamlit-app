@@ -1,4 +1,4 @@
-Link to Deployed model: https://app-app-88b5rvk45nznh6jcz7ss6g.streamlit.app/ 
+Link to Deployed Model: https://app-app-88b5rvk45nznh6jcz7ss6g.streamlit.app/ 
 
 
 Credit Default Prediction Model
